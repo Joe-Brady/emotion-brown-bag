@@ -14,7 +14,7 @@ const PinkButton = styled(MyButton)`
 const Demo = () => (
   <div>
     <Container>
-      <MyButton>Default button</MyButton>
+      <MyButton disabled>Default button</MyButton>
       <MyButton aqua>Aqua button</MyButton>
       <MyButton blue>Blue button</MyButton>
       <MyButton large>Large button</MyButton>
